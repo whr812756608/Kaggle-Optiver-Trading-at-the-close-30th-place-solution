@@ -7,7 +7,8 @@
 -This is a competion with a 3 month forecast period, where all the models in this competition are running against real market data with update in every two week.
 
 **Origin Post**
-The long journey has ended. Thanks to Optiver and Kaggle for hosting this amazing competition. Thanks to my teammates @chellyfan and @unknownkid for their incredible effort. We ended up in 30th place. Here's how our rank changed during each update:
+
+-The long journey has ended. Thanks to Optiver and Kaggle for hosting this amazing competition. Thanks to my teammates @chellyfan and @unknownkid for their incredible effort. We ended up in 30th place. Here's how our rank changed during each update:
 
 | Update             | Rank | Rank Change     |
 |--------------------|------|-----------------|
