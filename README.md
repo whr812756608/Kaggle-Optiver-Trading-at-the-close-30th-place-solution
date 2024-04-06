@@ -2,7 +2,7 @@
 
 -The link to the competitions: [https://www.kaggle.com/competitions/optiver-trading-at-the-close](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
 
--The link to our team's origin post: [https://www.kaggle.com/competitions/asl-fingerspelling/discussion/434896](https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/462650)
+-The link to our team's origin post: (https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/462650)
 
 
 
