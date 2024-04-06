@@ -4,7 +4,7 @@
 
 -The link to our team's origin post: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/462650
 
--This is a competion with a 3 month forecast period, where all the models in this competition are running against real market data with update in every two week.
+-This is a competion with 3 months forecast period, where all the models in this competition are running against real market data with update in every two week.
 
 **Origin Post**
 
