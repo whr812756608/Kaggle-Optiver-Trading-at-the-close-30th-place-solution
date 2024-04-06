@@ -4,8 +4,9 @@
 
 -The link to our team's origin post: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/462650
 
+-This is a competion with a 3 month forecast period, where all the models in this competition are running against real market data with update in every two week.
 
-
+**Origin Post**
 The long journey has ended. Thanks to Optiver and Kaggle for hosting this amazing competition. Thanks to my teammates @chellyfan and @unknownkid for their incredible effort. We ended up in 30th place. Here's how our rank changed during each update:
 
 | Update             | Rank | Rank Change     |
@@ -18,8 +19,6 @@ The long journey has ended. Thanks to Optiver and Kaggle for hosting this amazin
 | Final leaderboard  | 30th | ↑ 10            |
 
 In short , our model is an **LGBM & CatBoost ensemble** trained on a total of 480 + 37 days **without online learning** (480 days from the training set and an extra 37 days from the original public leaderboard data obtained via API). Our online learning crashed when it encountered the interim update data. Our rank is quiet stable during the updates. Check origin post below for more detail discussion. 
-
-**Origin Post**
 
 **TL;DR**
 - Feature engineering based on public notebooks
