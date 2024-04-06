@@ -1,3 +1,11 @@
+# Kaggle-Google-ASL-fingerspell-recognition-28th-place-solution
+
+-The link to the competitions: [https://www.kaggle.com/competitions/optiver-trading-at-the-close](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
+
+-The link to our team's origin post: https://www.kaggle.com/competitions/asl-fingerspelling/discussion/434896
+
+
+
 The long journey has ended. Thanks to Optiver and Kaggle for hosting this amazing competition. Thanks to my teammates @chellyfan and @unknownkid for their incredible effort. We ended up in 30th place. Here's how our rank changed during each update:
 
 | Update             | Rank | Rank Change     |
